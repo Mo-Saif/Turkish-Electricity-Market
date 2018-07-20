@@ -1,2 +1,3 @@
-# Turkish-Electricity-Market
-Forecasting in the Turkish Electricity Market
+## Welcome!
+
+As a part of an ongoing project, this page currently contains information, analyses and forecasting models regarding the Turkish electricity market.
